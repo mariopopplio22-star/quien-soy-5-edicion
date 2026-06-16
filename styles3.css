@@ -146,6 +146,11 @@ caption {
   color: black;
 }
 
+.retirado {
+  background-color: #FFB694;
+  color: black;
+}
+
 .eliminado {
   background-color: #FF91A4;
   color: black;
